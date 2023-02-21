@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "323074574788",
+    "project_id": "portefeuille-a2060",
+    "storage_bucket": "portefeuille-a2060.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323074574788:android:ddbdea0eb018426f517c91",
+        "android_client_info": {
+          "package_name": "com.portefeuille"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323074574788-1lfbf0vl43rl0r4op90irkj7n8l94g6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.portefeuille",
+            "certificate_hash": "4ab3f8936bafb78b4b9e3435c7574f7e5448374b"
+          }
+        },
+        {
+          "client_id": "323074574788-asta8v6clmdc2eidopdeunfimjt9r7hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBltwkrsp3M4IKOCpK7kF0JiURAVk9pizY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323074574788-asta8v6clmdc2eidopdeunfimjt9r7hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
